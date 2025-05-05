@@ -1,0 +1,14 @@
+{
+  "name": "fpt-university",
+  "version": "1.0.0",
+  "description": "demo for student",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "minh",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.5"
+  }
+}
